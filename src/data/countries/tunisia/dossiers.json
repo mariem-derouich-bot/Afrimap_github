@@ -1,0 +1,182 @@
+{
+  "tataouine": {
+    "overview": {
+      "location": "Tataouine Governorate",
+      "sector": "Renewable Energy & Eco-Tourism",
+      "description": "Tataouine is the largest governorate in Tunisia. Strategically located as the desert gateway, it holds vast land opportunities with unmatched solar radiation and critical energy pipelines."
+    },
+    "commonResources": [
+      "Unparalleled Sahara Solar Radiation",
+      "Massive Gypsum & Raw Mineral Ore Deposits",
+      "Desert Petroleum & Gas Wells"
+    ],
+    "opportunities": [
+      {
+        "title": "Sahara Utility-Scale Solar PV Farms",
+        "description": "Development of 50MW+ grid-connected photovoltaic arrays leveraging the high direct normal irradiance of the Sahara desert."
+      },
+      {
+        "title": "Ksar-Based Eco-Lodge Hospitality",
+        "description": "Adaptive reuse of historical Berber fortified granaries (ksour) into luxury, low-impact sustainable tourism resorts."
+      },
+      {
+        "title": "Industrial Gypsum Plaster Processing",
+        "description": "Establishing a state-of-the-art calcination plant to transform raw local gypsum into export-grade architectural plaster."
+      }
+    ],
+    "advantages": [
+      "Vast tracts of low-cost, non-agricultural land suitable for solar scaling.",
+      "High solar irradiance factors (over 2,100 kWh/m²/year).",
+      "Highly competitive capital-investment subsidies and tax-free FDI incentives."
+    ],
+    "challenges": [
+      "Inland grid connectivity requires high-voltage transmission lines.",
+      "Extreme desert temperatures and sand dust require automated dry-cleaning panels."
+    ],
+    "targetInvestors": [
+      "International Independent Power Producers (IPPs)",
+      "Boutique Eco-tourism Dev Companies",
+      "Industrial Mineral Consortia"
+    ],
+    "firstSteps": [
+      "Submit preliminary feasibility request to the Ministry of Energy.",
+      "Acquire land lease permissions through local governorate council.",
+      "Partner with Tunisia's national power utility (STEG) for grid-connection permissions."
+    ]
+  },
+  "nabeul": {
+    "overview": {
+      "location": "Nabeul Governorate (Cap Bon)",
+      "sector": "Agro-industrial Exports & Coastal Hospitality",
+      "description": "Known as the Garden of Tunisia, Nabeul combines a highly productive, fertile agricultural coastline with world-class beaches and a historic artisanal manufacturing footprint."
+    },
+    "commonResources": [
+      "Arable Coastal Lands (Citrus, Olive, Vineyards)",
+      "Highly Organized Artisanal Guilds (Ceramics, Textiles)",
+      "Proximity to Tunis Commercial Markets & Airports"
+    ],
+    "opportunities": [
+      {
+        "title": "Organic Citrus Oil & Juice Refining",
+        "description": "Establishing a cold-press facility to extract food-grade citrus essential oils and organic juice concentrates for European cosmetics and beverage markets."
+      },
+      {
+        "title": "Sustainable Beachfront Wellness Centers",
+        "description": "Developing modern thalassotherapy and spa lodges focusing on international medical-tourism wellness seekers."
+      },
+      {
+        "title": "Automated Eco-Ceramic Factories",
+        "description": "Infusing modern gas-firing technology into local ceramics manufacturing to create high-durability tiles and kitchenware for export."
+      }
+    ],
+    "advantages": [
+      "Over 70% of Tunisia's citrus crop harvested locally, ensuring raw material supply.",
+      "Robust, mature tourist infrastructure with immediate highway connections to Tunis.",
+      "Skilled workforce highly experienced in industrial polymer and clay processing."
+    ],
+    "challenges": [
+      "Coastal water salinity requires investments in brackish-water desalination.",
+      "High competition in tourism requires specialized, unique brand positioning."
+    ],
+    "targetInvestors": [
+      "Agro-food Multinationals",
+      "Luxury Wellness Hospitality Operators",
+      "Boutique Export Retailers"
+    ],
+    "firstSteps": [
+      "Secure contracts with local agricultural cooperatives for raw citrus supply.",
+      "Obtain tourism development authorization from the National Tourism Office (ONTT).",
+      "Conduct environmental impact study regarding water usage and discharge."
+    ]
+  },
+  "bizerte": {
+    "overview": {
+      "location": "Bizerte Governorate",
+      "sector": "Maritime Logistics, Shipbuilding & Heavy Manufacturing",
+      "description": "Positioned at the absolute northern tip of Africa, Bizerte has always served as a critical deepwater gateway, combining heavy metallurgical industry with a duty-free industrial park."
+    },
+    "commonResources": [
+      "Deepwater Coastline & Sheltered Lagoon",
+      "Bizerte Free Trade Zone (Duty-Free status)",
+      "Rich Aquaculture and Mediterranean Fish Stocks"
+    ],
+    "opportunities": [
+      {
+        "title": "Advanced Ship Repair & Yacht Refitting",
+        "description": "Establishing specialized dry-dock services targeting commercial Mediterranean cargo vessels and luxury European yachts."
+      },
+      {
+        "title": "Offshore Aquaculture Farms",
+        "description": "Developing open-ocean floating cages to harvest premium sea bass, sea bream, and shellfish for immediate export to Southern Europe."
+      },
+      {
+        "title": "Aeronautical and Automotive Wiring Units",
+        "description": "Opening sub-assembly centers inside the Free Zone to manufacture wire harnesses for European car and plane builders."
+      }
+    ],
+    "advantages": [
+      "Direct duty-free, tax-exempt shipping from the Bizerte Free Zone.",
+      "Deepwater harbor capable of hosting heavy container vessels and tankers.",
+      "Close proximity to Europe (under 30 hours shipping time to France and Italy)."
+    ],
+    "challenges": [
+      "Strict environmental regulations around the Bizerte lagoon ecosystem.",
+      "Traffic congestion on the Bizerte bridge requires careful logistics scheduling."
+    ],
+    "targetInvestors": [
+      "European Automotive & Aerospace Suppliers",
+      "Commercial Aquacultural Groups",
+      "Maritime Shipping & Repair Concessions"
+    ],
+    "firstSteps": [
+      "Apply for Free Zone tenant license with the Bizerte Economic Activities Park.",
+      "Obtain maritime concession permits from the Port Authority (OMMP).",
+      "Connect with local engineering universities to set up custom training programs."
+    ]
+  },
+  "sousse": {
+    "overview": {
+      "location": "Sousse Governorate",
+      "sector": "Advanced Mechatronics, IoT & Digital Exports",
+      "description": "The Pearl of the Sahel, Sousse is a thriving commercial powerhouse. It blends high-occupancy beach tourism with a leading tech-cluster focused on hardware and digital offshoring."
+    },
+    "commonResources": [
+      "Novation City Technology & Mechatronics Park",
+      "Highly Developed Port and Highway Connectivity",
+      "Top-tier Engineering & Computer Science Graduates"
+    ],
+    "opportunities": [
+      {
+        "title": "Smart IoT Hardware Assembly Hub",
+        "description": "Establishing an assembly line for smart utility meters, sensor boards, and tracking hardware targeting the European market."
+      },
+      {
+        "title": "Automotive Electronic Components Unit",
+        "description": "Developing high-precision sensory chips and cabling connectors inside Sousse's industrial zones."
+      },
+      {
+        "title": "Digital Health and Medical Software Hub",
+        "description": "Offshoring center developing software solutions for hospital systems and medical imaging diagnostics."
+      }
+    ],
+    "advantages": [
+      "Novation City provides pre-wired fiber backbones and tax-free Startup Act benefits.",
+      "Steady stream of highly specialized mechatronics graduates from the University of Sousse.",
+      "Excellent living environment, making it easy to recruit and retain premium talent."
+    ],
+    "challenges": [
+      "Increasing competition for premium software development talent.",
+      "Custom clearance times for micro-electronics components require optimized supply chains."
+    ],
+    "targetInvestors": [
+      "Electronics Manufacturers",
+      "European Software Development Offshorers",
+      "Tech-focused VC Funds"
+    ],
+    "firstSteps": [
+      "Secure space or virtual incubator status within Novation City.",
+      "Register under the Tunisian Startup Act program for complete tax-free payroll.",
+      "Set up internship partnerships with the National Engineering School of Sousse (ENISO)."
+    ]
+  }
+}

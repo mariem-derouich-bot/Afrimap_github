@@ -1,0 +1,137 @@
+[
+  {
+    "id": "res_tataouine_solar",
+    "name": "Solar Energy",
+    "category": "Renewable Energy",
+    "icon": "Sun",
+    "governorateId": "tataouine",
+    "coordinates": { "x": 210, "y": 320 },
+    "description": "Vast desert spaces with exceptional solar irradiance, perfect for grid-connected gigawatt-scale solar farms."
+  },
+  {
+    "id": "res_tataouine_tourism",
+    "name": "Desert Tourism",
+    "category": "Tourism & Hospitality",
+    "icon": "Compass",
+    "governorateId": "tataouine",
+    "coordinates": { "x": 190, "y": 330 },
+    "description": "Berber ksour and stunning Sahara dunes, attracting international eco-tourists and luxury wilderness camps."
+  },
+  {
+    "id": "res_tataouine_agri",
+    "name": "Oasis Agriculture",
+    "category": "Agriculture & Agri-food",
+    "icon": "Trees",
+    "governorateId": "tataouine",
+    "coordinates": { "x": 200, "y": 300 },
+    "description": "Localized desert farming using modern water preservation to harvest high-yield figs, olives, and forage crops."
+  },
+  {
+    "id": "res_nabeul_tourism",
+    "name": "Tourism",
+    "category": "Tourism & Hospitality",
+    "icon": "Hotel",
+    "governorateId": "nabeul",
+    "coordinates": { "x": 240, "y": 95 },
+    "description": "Pristine sandy beaches and coastal resorts, generating massive European and domestic tourism flows."
+  },
+  {
+    "id": "res_nabeul_citrus",
+    "name": "Citrus Agriculture",
+    "category": "Agriculture & Agri-food",
+    "icon": "Trees",
+    "governorateId": "nabeul",
+    "coordinates": { "x": 230, "y": 75 },
+    "description": "Cap Bon accounts for over 70% of national citrus production, offering top-tier orange, lemon, and essential oil exports."
+  },
+  {
+    "id": "res_nabeul_crafts",
+    "name": "Handicrafts",
+    "category": "Manufacturing & Industry",
+    "icon": "Award",
+    "governorateId": "nabeul",
+    "coordinates": { "x": 245, "y": 85 },
+    "description": "A world-renowned ceramics, pottery, and stone-carving sector supporting hundreds of export-oriented workshops."
+  },
+  {
+    "id": "res_bizerte_maritime",
+    "name": "Maritime Economy",
+    "category": "Maritime & Shipping",
+    "icon": "Anchor",
+    "governorateId": "bizerte",
+    "coordinates": { "x": 190, "y": 25 },
+    "description": "Strategically positioned on deepwater shipping lines, hosting state-owned ship repair yards and yacht builders."
+  },
+  {
+    "id": "res_bizerte_fishing",
+    "name": "Fishing",
+    "category": "Maritime & Shipping",
+    "icon": "Ship",
+    "governorateId": "bizerte",
+    "coordinates": { "x": 170, "y": 30 },
+    "description": "An abundant Mediterranean fishing fleet with advanced aquaculture operations in the Bizerte Lagoon."
+  },
+  {
+    "id": "res_bizerte_industry",
+    "name": "Industry",
+    "category": "Manufacturing & Industry",
+    "icon": "Building",
+    "governorateId": "bizerte",
+    "coordinates": { "x": 180, "y": 45 },
+    "description": "The Bizerte Free Zone acts as a competitive duty-free manufacturing base for aviation and automotive parts."
+  },
+  {
+    "id": "res_sousse_tourism",
+    "name": "Tourism",
+    "category": "Tourism & Hospitality",
+    "icon": "Hotel",
+    "governorateId": "sousse",
+    "coordinates": { "x": 225, "y": 120 },
+    "description": "Known as the Pearl of the Sahel, hosting dynamic resorts, historical medina sites, and premium yacht marinas."
+  },
+  {
+    "id": "res_sousse_industry",
+    "name": "Industry",
+    "category": "Manufacturing & Industry",
+    "icon": "Building",
+    "governorateId": "sousse",
+    "coordinates": { "x": 210, "y": 130 },
+    "description": "Leading electronics assembly plants and specialized textile factories operating near the commercial port."
+  },
+  {
+    "id": "res_sousse_tech",
+    "name": "Technology",
+    "category": "IT & Tech",
+    "icon": "Cpu",
+    "governorateId": "sousse",
+    "coordinates": { "x": 220, "y": 135 },
+    "description": "Novation City mechatronics cluster fostering hardware-focused startups, R&D labs, and software developers."
+  },
+  {
+    "id": "res_tunis_fintech",
+    "name": "Fintech & Services",
+    "category": "IT & Tech",
+    "icon": "Cpu",
+    "governorateId": "tunis",
+    "coordinates": { "x": 195, "y": 65 },
+    "description": "The absolute banking, financial, and regulatory center of Tunisia, holding most of the tech venture funding."
+  },
+  {
+    "id": "res_sfax_olive",
+    "name": "Olive Oil Production",
+    "category": "Agriculture & Agri-food",
+    "icon": "Trees",
+    "governorateId": "sfax",
+    "coordinates": { "x": 215, "y": 180 },
+    "description": "Tunisia's main olive oil capital. Holds millions of trees and hosts advanced refining and packaging plants."
+  },
+  {
+    "id": "res_tozeur_dates",
+    "name": "Date Palms",
+    "category": "Agriculture & Agri-food",
+    "icon": "Trees",
+    "governorateId": "tozeur",
+    "coordinates": { "x": 105, "y": 230 },
+    "description": "Home to authentic Deglet Nour dates, packing the highest quality honey-dates exported globally."
+  }
+]

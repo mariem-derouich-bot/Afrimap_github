@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Space Grotesk", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  /* Explicit Theme Custom Colors */
+  --color-eco-cream: #F9F7F2;
+  --color-sage-mint: #B7E4C6;
+  --color-earth-charcoal: #2D3436;
+  --color-deep-forest: #1B4332;
+  --color-leaf-green: #40916C;
+
+  /* Mapping Slate colors to match the eco theme perfectly */
+  --color-slate-950: #F9F7F2; /* Eco Cream (Main BG) */
+  --color-slate-900: rgba(183, 228, 198, 0.25); /* Sage Mint at 25% opacity for cards */
+  --color-slate-850: rgba(183, 228, 198, 0.35); /* Sage Mint hover states */
+  --color-slate-800: #B7E4C6; /* Sage Mint for borders/accents */
+  --color-slate-700: #1B4332; /* Deep Forest for secondary text/subheadings */
+  --color-slate-600: #2D3436; /* Earth Charcoal for general text */
+  --color-slate-500: #2D3436; /* Earth Charcoal */
+  --color-slate-450: #2D3436; /* Earth Charcoal */
+  --color-slate-400: #2D3436; /* Earth Charcoal */
+  --color-slate-350: #2D3436; /* Earth Charcoal */
+  --color-slate-300: #2D3436; /* Earth Charcoal */
+  --color-slate-200: #2D3436; /* Earth Charcoal */
+  --color-slate-100: #1B4332; /* Deep Forest for bold text headers */
+  --color-slate-50: rgba(183, 228, 198, 0.15); /* Sage Mint low-opacity sections */
+
+  /* Mapping Emerald colors to match the leaf and forest theme */
+  --color-emerald-950: #F9F7F2;
+  --color-emerald-900: rgba(183, 228, 198, 0.2); /* Sage Mint cards low opacity */
+  --color-emerald-800: #1B4332; /* Deep Forest for dark highlights */
+  --color-emerald-700: #1B4332; /* Deep Forest */
+  --color-emerald-600: #40916C; /* Leaf Green (Primary CTA) */
+  --color-emerald-500: #40916C; /* Leaf Green (Primary CTA) */
+  --color-emerald-400: #1B4332; /* Deep Forest (Secondary CTA/highlight) */
+  --color-emerald-300: #1B4332; /* Deep Forest */
+  --color-emerald-200: #1B4332; /* Deep Forest */
+  --color-emerald-100: #1B4332; /* Deep Forest */
+  --color-emerald-50: rgba(183, 228, 198, 0.25); /* Sage Mint 25% */
+}
+
+/* Base style overrides to guarantee perfect contrast and styling */
+body {
+  background-color: #F9F7F2 !important;
+  color: #2D3436 !important;
+}
+
+/* Headings rule */
+h1, h2, h3, h4, h5, h6 {
+  color: #1B4332 !important;
+}
+
+/* Ensure any paragraphs or list texts are Earth Charcoal */
+p, li, span:not(.text-emerald-400):not(.text-emerald-500):not(.text-emerald-600) {
+  color: #2D3436;
+}
+
+/* Specific text selectors */
+.text-slate-100, .text-slate-200, .text-slate-300, .text-slate-400, .text-slate-500 {
+  color: #2D3436 !important;
+}
+
+/* Navigation tabs in active states or primary items */
+.text-emerald-400, .text-emerald-500 {
+  color: #1B4332 !important; /* Deep Forest accent */
+}
+
+/* Primary buttons (CTAs) styling */
+button.bg-emerald-600, 
+button.bg-emerald-500,
+.bg-emerald-600,
+.bg-emerald-500,
+button.bg-gradient-to-r,
+.bg-gradient-to-r {
+  background-color: #40916C !important; /* Leaf Green background */
+  background-image: none !important; /* clear gradients for pure Leaf Green solid */
+  color: #F9F7F2 !important; /* Eco Cream text inside button for WCAG compliance */
+  border-color: #40916C !important;
+}
+
+button.bg-emerald-600:hover, 
+button.bg-emerald-500:hover,
+.bg-emerald-600:hover,
+.bg-emerald-500:hover,
+button.bg-gradient-to-r:hover {
+  background-color: #1B4332 !important; /* Hover to Deep Forest */
+  color: #F9F7F2 !important;
+}
+
+/* Accent borders or separators */
+.border-slate-900, .border-slate-800, .border-slate-700, .border-slate-200 {
+  border-color: #B7E4C6 !important; /* Sage Mint border */
+}
+
+/* Main white sections or cards overridden to Sage Mint 20-30% opacity */
+.bg-white {
+  background-color: rgba(183, 228, 198, 0.25) !important; /* Sage Mint at 25% opacity */
+  border-color: #B7E4C6 !important; /* Sage Mint border */
+}
+
+/* Hover highlights for cards */
+.bg-slate-50 {
+  background-color: rgba(183, 228, 198, 0.15) !important;
+}
+.hover\:bg-slate-100:hover {
+  background-color: rgba(183, 228, 198, 0.3) !important;
+}

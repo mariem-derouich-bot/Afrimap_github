@@ -1,0 +1,135 @@
+[
+  {
+    "id": "city_nabeul",
+    "name": "Nabeul",
+    "governorateId": "nabeul",
+    "coordinates": { "x": 230, "y": 80 },
+    "resources": ["Ceramics & Pottery", "Citrus Cultivation", "Craft Trade"]
+  },
+  {
+    "id": "city_hammamet",
+    "name": "Hammamet",
+    "governorateId": "nabeul",
+    "coordinates": { "x": 222, "y": 95 },
+    "resources": ["Beach Resort Hospitality", "Boutique Tourism", "Marina Operations"]
+  },
+  {
+    "id": "city_korba",
+    "name": "Korba",
+    "governorateId": "nabeul",
+    "coordinates": { "x": 240, "y": 75 },
+    "resources": ["Tomato Agro-industries", "Poultry Farming", "Coastal Fishing"]
+  },
+  {
+    "id": "city_kelibia",
+    "name": "Kelibia",
+    "governorateId": "nabeul",
+    "coordinates": { "x": 255, "y": 65 },
+    "resources": ["Dry-dock Boatbuilding", "Muscat Grape Vineyards", "Deepwater Fishery"]
+  },
+  {
+    "id": "city_medenine",
+    "name": "Medenine",
+    "governorateId": "medenine",
+    "coordinates": { "x": 210, "y": 245 },
+    "resources": ["Regional Trade Crossroads", "Historical Berber Ghorfas", "Brick Factories"]
+  },
+  {
+    "id": "city_zarzis",
+    "name": "Zarzis",
+    "governorateId": "medenine",
+    "coordinates": { "x": 232, "y": 255 },
+    "resources": ["Commercial Port Logistics", "FDI Duty-Free Trade Zone", "Sea Salt Harvesting"]
+  },
+  {
+    "id": "city_houmt_souk",
+    "name": "Houmt Souk (Djerba)",
+    "governorateId": "medenine",
+    "coordinates": { "x": 225, "y": 235 },
+    "resources": ["International Tourism Hub", "Handicraft Souks", "Traditional Weaving"]
+  },
+  {
+    "id": "city_tataouine",
+    "name": "Tataouine",
+    "governorateId": "tataouine",
+    "coordinates": { "x": 195, "y": 305 },
+    "resources": ["Administrative Offices", "Vast Gypsum Mines", "Sahara Logistics Base"]
+  },
+  {
+    "id": "city_chenini",
+    "name": "Chenini",
+    "governorateId": "tataouine",
+    "coordinates": { "x": 185, "y": 315 },
+    "resources": ["Hilltop Eco-Tourism", "Berber Cultural Heritage", "Olive Presses"]
+  },
+  {
+    "id": "city_tozeur",
+    "name": "Tozeur",
+    "governorateId": "tozeur",
+    "coordinates": { "x": 115, "y": 220 },
+    "resources": ["Deglet Nour Export Packing", "Oasis Resorts & Spas", "Tozeur International Airport"]
+  },
+  {
+    "id": "city_nefta",
+    "name": "Nefta",
+    "governorateId": "tozeur",
+    "coordinates": { "x": 95, "y": 230 },
+    "resources": ["Sufi Cultural Heritage", "La Corbeille Oasis", "Film Location (Star Wars)"]
+  },
+  {
+    "id": "city_tunis",
+    "name": "Tunis Center",
+    "governorateId": "tunis",
+    "coordinates": { "x": 192, "y": 72 },
+    "resources": ["Financial Center HQ", "Diplomatic Services", "Startup Accelerators"]
+  },
+  {
+    "id": "city_la_marsa",
+    "name": "La Marsa",
+    "governorateId": "tunis",
+    "coordinates": { "x": 204, "y": 62 },
+    "resources": ["Premium Real Estate", "FDI Housing Complexes", "Boutique Retail"]
+  },
+  {
+    "id": "city_sousse_city",
+    "name": "Sousse",
+    "governorateId": "sousse",
+    "coordinates": { "x": 212, "y": 122 },
+    "resources": ["FDI Manufacturing Complexes", "Sahel University Hospital", "Historical Medina"]
+  },
+  {
+    "id": "city_port_el_kantaoui",
+    "name": "Port El Kantaoui",
+    "governorateId": "sousse",
+    "coordinates": { "x": 218, "y": 115 },
+    "resources": ["Luxury Yacht Marina", "36-hole Championship Golf Course", "Fine Dining Ecosystem"]
+  },
+  {
+    "id": "city_sfax_city",
+    "name": "Sfax City",
+    "governorateId": "sfax",
+    "coordinates": { "x": 202, "y": 182 },
+    "resources": ["Commercial Trade Offices", "Sfax Technopark IT", "Chemical Refineries"]
+  },
+  {
+    "id": "city_kerkennah",
+    "name": "Kerkennah Islands",
+    "governorateId": "sfax",
+    "coordinates": { "x": 224, "y": 178 },
+    "resources": ["Artisanal Fishing (Charfia)", "Eco-Lodges", "Traditional Boatbuilding"]
+  },
+  {
+    "id": "city_bizerte_city",
+    "name": "Bizerte",
+    "governorateId": "bizerte",
+    "coordinates": { "x": 178, "y": 32 },
+    "resources": ["Deepwater Ship Repair", "Commercial Seaport Logistics", "Seafood Processing"]
+  },
+  {
+    "id": "city_menzel_bourguiba",
+    "name": "Menzel Bourguiba",
+    "governorateId": "bizerte",
+    "coordinates": { "x": 172, "y": 42 },
+    "resources": ["Heavy Metallurgical Foundries", "Economic Activity Zone", "Industrial Mechanics"]
+  }
+]

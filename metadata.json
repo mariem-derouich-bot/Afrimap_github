@@ -1,0 +1,8 @@
+{
+  "name": "AFRIMAP",
+  "description": "Interactive African investment mapping and AI decision platform, starting with Tunisia\u0027s regional opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
